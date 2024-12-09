@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = { 
     plugins: [
         require("postcss-uncss")({
                 html: ['./public/*.html'],
